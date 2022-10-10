@@ -15,7 +15,7 @@ This is a Python GUI application useful to create new valorant accounts in a mat
 ### How to use
 #### Source code
 1) Dowload this repo
-    - using **git**: `git clone https://github.com/Bbalduzz/Valorant-Account-Creator.git`
+    - using **git**: `git clone https://github.com/okamiwtf/Valorant-AccountGenerator.git`
     - using the **zip**: download the zip and extract it
 2) Open `ValoGen.py` and change:
     - `options.binary_location` variable (not obligatry)
